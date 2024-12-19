@@ -1,13 +1,7 @@
-**SpringBoot Buggy API Services**
+**System-Fault-and-Debugging-Toolkit**
 
-The SpringBoot Buggy API Service, has endpoints designed to simulate Java performance problems for tool testing and analysis.
+The System Fault and Debuggging Toolkit, has endpoints designed to simulate Java performance problems for tool testing and analysis.
 
----
-
-```
-SSH: git clone git@github.com:ycrash/springboot-buggyapi.git
-HTTP: git clone https://github.com/ycrash/springboot-buggyapi.git
-```
 
 ** Pre-Requiste **
 
